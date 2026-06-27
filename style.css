@@ -1,0 +1,20 @@
+a{
+    margin-left: 34px;
+    margin-right: 34px;
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+    background-color: blueviolet;
+    justify-content: space-between;
+}
+div{
+    display: flex;
+    gap: 10px;
+}
